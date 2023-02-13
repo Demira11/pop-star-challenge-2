@@ -1,0 +1,19 @@
+.h1 {
+  text-align: center;
+  margin: 0 auto;
+}
+.iframe-container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.buttons {
+  text-align: center;
+  margin: 0 auto;
+  padding: 45px;
+  background-color: black;
+}
+
+body {
+  background-color: black;
+}
