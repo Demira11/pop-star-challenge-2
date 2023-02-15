@@ -2,18 +2,14 @@
   text-align: center;
   margin: 0 auto;
 }
-.iframe-container {
-  margin: 0 auto;
-  text-align: center;
-}
 
 .navbar-brand {
-  font-size: 65px;
+  font-size: 45px;
   text-align: center;
   margin: 0 auto;
   padding-top: 15px;
 }
 
-.responsive {
+img {
   max-width: 100%;
 }
